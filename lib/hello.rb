@@ -1,5 +1,5 @@
 def hello_t(array)
-puts "Hey no block givin"  if !block_given?
+puts "He! no block was given!"  if !block_given?
 array
 end
 
