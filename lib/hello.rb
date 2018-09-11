@@ -1,6 +1,6 @@
 def hello_t(array)
   
-  if block_given == true
+  if block_given? == true
     puts "given"
   end
   
